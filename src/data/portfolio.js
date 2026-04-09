@@ -15,7 +15,7 @@ export const ME = {
   email:      "mf6448841@gmail.com",
   phone:      "+91 6392254405",
  // github:     "https://github.com/MohammadFarhanayyubi",
- // linkedin:   "https://www.linkedin.com/in/mohammed-farhan-38537324a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA9cvrLcES3KP%2FH9C0m2AQg%3D%3D",
+  linkedin:   "linkedin.com/in/mohammed-farhan-cs",
   cvLink:     "#",
 };
 
